@@ -1,0 +1,17 @@
+# R user files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# IDE
+.vscode/
+.Rproj
+
+# Data & outputs (keep code-only repo)
+data/raw/
+outputs/
+
+# OS junk
+.DS_Store
+Thumbs.db
